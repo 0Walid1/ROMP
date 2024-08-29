@@ -33,3 +33,4 @@ imageio-ffmpeg
 pyrender
 joblib
 pandas
+pytorch3d
